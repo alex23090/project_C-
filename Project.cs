@@ -7,5 +7,6 @@ class Program
         Console.WriteLine("Hello World!");
         Console.ReadKey();
         Console.WriteLine("Bye");
+        Console.WriteLine("GoodBye");
     }
 }
